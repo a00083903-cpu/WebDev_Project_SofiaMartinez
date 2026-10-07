@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(173, 201, 230);
+}
+h1 {
+    color:midnightblue;
+    text-align:center;
+}
+p {
+    font-family:impact;
+    font-size: 20px;
+    color:darkslateblue;
+    text-align: center;
+}
+button {
+    background-color:antiquewhite;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(236, 138, 0);
+}
+.coralHeading {
+    background-color:lightcoral;
+}
+.jadeHeading {
+    background-color:rgb(32, 178, 142);
+}
